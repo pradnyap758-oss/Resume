@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pradnya Patil | Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img src="image.jpeg" alt="Pradnya Patil" class="profile-img">
+    <h1>Pradnya Patil</h1>
+    <p>Student | Engineer </p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am Pradnya, Engineering student at Robotics and Artificial Intelligence at Maratha Mandal's Engineering College. I am passionate about web development, networking, and guiding students in technical projects.
+    </p>
+</section>
+
+<section>
+    <h2>Biodata</h2>
+    <table>
+        <tr>
+            <td><strong>Name</strong></td>
+            <td>Pradnya Patil</td>
+        </tr>
+        <tr>
+            <td><strong>Qualification</strong></td>
+            <td>Engineering Student</td>
+        </tr>
+        <tr>
+            <td><strong>Profession</strong></td>
+            <td>Engineering</td>
+        </tr>
+        <tr>
+            <td><strong>Institution</strong></td>
+            <td>Maratha Mandal's Engineering College</td>
+        </tr>
+        <tr>
+            <td><strong>Skills</strong></td>
+            <td>C Programming,Time management,Reading,Basic computer skills,Teamwork</td>
+        </tr>
+        <tr>
+            <td><strong>Interests</strong></td>
+            <td>Coding,Research and analysis,Data science</td>
+        </tr>
+    </table>
+</section>
+
+<section>
+    <h2>Social & Academic Activities</h2>
+    <ul>
+        <li>Mini project as a Activity</li>
+        <li>Participation in cultural activities</li>
+        <li>Participation in academic Hachthons and Paper presentations</li>
+        <li>Participation in academic seminars</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact & Social Links</h2>
+    <p>
+        Email:pradnyap758@gmail.com <br><br>
+        LinkedIn: <a href="#">linkedin.com/in/yourprofile</a> <br>
+        GitHub: <a href="https://github.com/pradnyap758-oss">github.com/yourprofile</a>
+    </p>
+</section>
+
+<footer>
+    <p>© 2025 Pradnya Patil | Personal Website</p>
+</footer>
+
+</body>
+</html>
